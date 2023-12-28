@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This notebook showcases how to use an open-source Large Language Model (LLM), Meta's LLaMA2-7B, for chatting with a provided PDF document. The model is quantized to 4-bits for performance optimization and is designed to respond to user queries by referring to the document.
+This notebook showcases how to use an open-source Large Language Model (LLM), Meta's LLaMA2-13B, for chatting with a provided PDF document. The model is quantized to 4-bits for performance optimization and is designed to respond to user queries by referring to the document.
 
 ## Approach
 
